@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiKaQiu", "PiKaQiu.csproj", "{35B01D35-5061-4D7E-60DE-A35F5F5CDB74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiKaQiu.Editor", "PiKaQiu.Editor.csproj", "{8A606AD2-8407-977C-340F-C442FCD50282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B01D35-5061-4D7E-60DE-A35F5F5CDB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B01D35-5061-4D7E-60DE-A35F5F5CDB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B01D35-5061-4D7E-60DE-A35F5F5CDB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B01D35-5061-4D7E-60DE-A35F5F5CDB74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A606AD2-8407-977C-340F-C442FCD50282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A606AD2-8407-977C-340F-C442FCD50282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A606AD2-8407-977C-340F-C442FCD50282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A606AD2-8407-977C-340F-C442FCD50282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
